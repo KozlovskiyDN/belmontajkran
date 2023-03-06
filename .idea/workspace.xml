@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cdeea0e-bc62-4bea-b934-51810121314b" name="Default Changelist" comment="" />
+    <list default="true" id="5cdeea0e-bc62-4bea-b934-51810121314b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gruzopodemnye.html" beforeDir="false" afterPath="$PROJECT_DIR$/gruzopodemnye.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produkt.html" beforeDir="false" afterPath="$PROJECT_DIR$/produkt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proizvodstvo.html" beforeDir="false" afterPath="$PROJECT_DIR$/proizvodstvo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/remont.html" beforeDir="false" afterPath="$PROJECT_DIR$/remont.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,8 +81,16 @@
       <workItem from="1621362764008" duration="1763000" />
       <workItem from="1622747379839" duration="260000" />
       <workItem from="1627585990156" duration="122000" />
-      <workItem from="1678128704104" duration="62000" />
+      <workItem from="1678128704104" duration="1102000" />
     </task>
+    <task id="LOCAL-00001" summary="NEW 2023">
+      <created>1678128825187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678128825187</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +112,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/belmontajlran" />
     </ignored-roots>
+    <MESSAGE value="NEW 2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="NEW 2023" />
   </component>
 </project>
