@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cdeea0e-bc62-4bea-b934-51810121314b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gruzopodemnye.html" beforeDir="false" afterPath="$PROJECT_DIR$/gruzopodemnye.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/produkt.html" beforeDir="false" afterPath="$PROJECT_DIR$/produkt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proizvodstvo.html" beforeDir="false" afterPath="$PROJECT_DIR$/proizvodstvo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remont.html" beforeDir="false" afterPath="$PROJECT_DIR$/remont.html" afterDir="false" />
-    </list>
+    <list default="true" id="5cdeea0e-bc62-4bea-b934-51810121314b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +76,7 @@
       <workItem from="1627585990156" duration="122000" />
       <workItem from="1678128704104" duration="2865000" />
       <workItem from="1680729408881" duration="299000" />
-      <workItem from="1680730123583" duration="348000" />
+      <workItem from="1680730123583" duration="570000" />
     </task>
     <task id="LOCAL-00001" summary="NEW 2023">
       <created>1678128825187</created>
@@ -113,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678134336095</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="NEW.4 2023">
+      <created>1680730496466</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680730496466</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +138,7 @@
     <MESSAGE value="NEW 2023" />
     <MESSAGE value="NEW.2 2023" />
     <MESSAGE value="NEW.3 2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="NEW.3 2023" />
+    <MESSAGE value="NEW.4 2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="NEW.4 2023" />
   </component>
 </project>
